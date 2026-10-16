@@ -17,4 +17,10 @@ if xb<x1 or xb>x2 or yb<y1 or yb>y2:
     print("kolize bodu s obdelníkem")
 else: 
     print("kolize bodu s obdelníkem")
-    
+
+if xb<x1 or xb>x2 or yb<y2 or yb>y2:
+    ("jsi v zone")
+
+
+if xb>=x1 or xb<=x2 or yb>=y2 or yb<=y2:
+    print("na hraně")
